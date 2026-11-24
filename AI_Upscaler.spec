@@ -57,3 +57,4 @@ coll = COLLECT(
     upx_exclude=[],
     name='AI_Upscaler',
 )
+ 

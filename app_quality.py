@@ -266,3 +266,4 @@ with gr.Blocks(title="AI Upscaler Pro") as demo:
 
 if __name__ == "__main__":
     demo.launch(inbrowser=True)
+ 
